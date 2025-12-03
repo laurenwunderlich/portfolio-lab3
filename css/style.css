@@ -1,5 +1,15 @@
 /***** NAVBAR *****/
 
+.resume{
+    text-align: left;
+}
+.resume h3{
+    text-align: center;
+}
+ul.blist{
+    display: inline-block;
+    text-align: left;
+}
 .navbar {
     background-color: #12086F;
     border-radius: 0;
